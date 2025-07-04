@@ -98,6 +98,9 @@ Response:
 ✅ Features
 
 🧠 Uses LLM (DeepSeek / HuggingFace) to generate accurate SQL
+
 🔐 Supports dynamic DB connections
+
 🖥️ Simple UI to ask questions
+
 ⚡ Executes and displays results instantly
