@@ -93,12 +93,11 @@ Response:
   "sql": "SELECT * FROM employees WHERE salary > 80000",
   "data": [ ... ]
 }
+```
 
 ✅ Features
+
 🧠 Uses LLM (DeepSeek / HuggingFace) to generate accurate SQL
-
 🔐 Supports dynamic DB connections
-
 🖥️ Simple UI to ask questions
-
 ⚡ Executes and displays results instantly
