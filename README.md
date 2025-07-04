@@ -8,7 +8,7 @@ Talk-to-DB is an intelligent full-stack application that allows users to query t
 
 ## 📸 Snapshot
 
-![Talk to DB Demo](./assets/talk-to-db-snapshot.png)
+![Talk to DB Demo](.//talk-to-db-snap.png)
 
 > _*You can update this with your own screenshot inside the `assets/` folder and adjust the path accordingly._  
 
@@ -27,7 +27,7 @@ Talk-to-DB is an intelligent full-stack application that allows users to query t
 ---
 
 ## 🗂 Folder Structure
-
+```
 talk-to-db/
 │
 ├── backend/
@@ -44,7 +44,7 @@ talk-to-db/
 ├── App.jsx
 └── main.jsx
 
-
+```
 ---
 
 ## ⚙️ Setup Instructions
